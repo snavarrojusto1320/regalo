@@ -131,7 +131,7 @@ musicBtn.addEventListener("click", () => {
 
     // Iniciar la reproducción tras la interacción del usuario
     youtubePlayer.src =
-       "https://open.spotify.com/embed/track/1ucnuV88gFTfR3BalmznDk?utm_source=generator";
+       "https://open.spotify.com/embed/track/1ucnuV88gFTfR3BalmznDk";
 
     musicBtn.textContent = "💗 Nuestra canción";
     musicNotes.classList.add("playing");
